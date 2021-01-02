@@ -1,2 +1,2 @@
-# pydantic_lazy_dicts
-This is a simple implementation of a Mapping object for supporting lazy convertion
+# Pydantic lazy dict
+This is a simple implementation of a Mapping object for supporting lazy conversion
